@@ -1,5 +1,5 @@
 """
-query_vector_db.py
+query.py
 ------------------
 Query your Tamil Nadu Combined Building Rules vector index.
 Supports semantic search across text, OCR, and image embeddings.
